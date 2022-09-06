@@ -5,3 +5,5 @@
 >  Not as clumsy or random as a blaster; an elegant weapon for a more civilized age."
 >
 > *Obi-Wan Kenobi*
+
+Yep, sounds good!

@@ -1,6 +1,6 @@
 # Использовани GIT в контроле версий [Git documentation]
 
-## Базовый ситаксис [Basic syntax]
+## Базовый ситаксис [Basic syntax] // Лекция - Семинар 1
 
 ### Заголовки [Headings]
 
@@ -174,7 +174,7 @@ ___
 |   !    |  восклицательный знак    |
 |   |    |  труба                   |
 
-## Стандартные команды [Main commands]
+## Стандартные команды [Main commands] // Лекция - Семинар 2
 
 ### Подготовка репозитория [repository's preparing]
 
@@ -223,4 +223,4 @@ ___
 
 Для удаления ветки ввести команду <pre>`git` branch -d 'name branch'</pre>
 
-## Удаленный доступ [Remote control: commands]
+## Удаленный доступ [Remote control: commands] // Лекция - Семинар 3

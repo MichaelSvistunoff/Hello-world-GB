@@ -1,9 +1,11 @@
-## Заголовок 1
+# Использовани GIT в контроле версий [Git documentation]
 
-> ## "This is the weapon of a Jedi Knight.
->
->  Not as clumsy or random as a blaster; an elegant weapon for a more civilized age."
->
-> *Obi-Wan Kenobi*
+## Базовый ситаксис [Basic syntax]
 
-Yep, sounds good!
+---
+
+## Стандартные команды [Main commands]
+
+---
+
+## Удаленный доступ [Remote control: commands]
